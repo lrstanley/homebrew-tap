@@ -16,6 +16,10 @@
     <img title="Last commit" src="https://img.shields.io/github/last-commit/lrstanley/homebrew-tap?style=flat-square">
   </a>
 
+  <a href="https://codecov.io/gh/lrstanley/homebrew-tap">
+    <img title="Code Coverage" src="https://img.shields.io/codecov/c/github/lrstanley/homebrew-tap/master?style=flat-square">
+  </a>
+
 </p>
 <p align="center">
   <a href="https://github.com/lrstanley/homebrew-tap/issues?q=is:open+is:issue+label:bug">

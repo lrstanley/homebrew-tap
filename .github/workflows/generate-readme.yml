@@ -1,0 +1,12 @@
+name: generate-readme
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "0 13 * * *"
+
+jobs:
+  generate:
+    uses: lrstanley/.github/.github/workflows/generate-readme.yml@master
+    secrets: inherit

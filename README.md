@@ -15,6 +15,7 @@
   <a href="https://github.com/lrstanley/homebrew-tap/commits/master">
     <img title="Last commit" src="https://img.shields.io/github/last-commit/lrstanley/homebrew-tap?style=flat-square">
   </a>
+
 </p>
 <p align="center">
   <a href="https://github.com/lrstanley/homebrew-tap/issues?q=is:open+is:issue+label:bug">
